@@ -1,11 +1,20 @@
 AngularJs
 ---------
-***Généralités***
+**Généralités**
 - [AngularJS — Superheroic JavaScript MVW Framework](https://angularjs.org/)
 - [FrAngular : AngularJS en français](http://www.frangular.com/)
 - [Angular-JS.fr](http://www.angular-js.fr/)
 - [AngularJS - API Reference](https://docs.angularjs.org/api)
 
+**Tutoriels**
+- [Tutoriel AngularJS](http://www.tutoriel-angularjs.fr/)
+- [Apprendre Angular en un jour, le guide ultime](http://www.tinci.fr/blog/apprendre-angular-en-un-jour-le-guide-ultime/)
+- [2 years with Angular](http://www.fse.guru/2-years-with-angular)
+- [Introduction à AngularJs](http://makina-corpus.com/blog/metier/2014/introduction-angularjs)
+- [Geekos.fr - Tutoriel](http://geekos.fr/11/2012/framework-javascript-angularjs/)
+- [w3schools - Tutoriael](http://www.w3schools.com/angular/default.asp)
+
+**Objets**
 - [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
 - [FrAngular - Scope et évènement](http://www.frangular.com/2013/01/angularjs-scopes-et-evenements.html)
 - [Scope](https://docs.angularjs.org/guide/scope)
