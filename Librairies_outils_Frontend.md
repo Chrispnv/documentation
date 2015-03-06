@@ -30,8 +30,6 @@ Javascript
 AngularJS/Leaflet
 -----------------
 - [tombatossals/angular-leaflet-directive](http://tombatossals.github.io/angular-leaflet-directive/#!/)
-- []()
-- []()
 
 AngularJS/OpenLayers
 -----------------
