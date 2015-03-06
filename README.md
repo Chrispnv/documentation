@@ -1,6 +1,6 @@
 AngularJs
 ---------
-**1. Généralités**
+*Généralités*
 - [AngularJS — Superheroic JavaScript MVW Framework](https://angularjs.org/)
 - [FrAngular : AngularJS en français](http://www.frangular.com/)
 - [Angular-JS.fr](http://www.angular-js.fr/)
