@@ -1,5 +1,5 @@
-### Liens sur AngularJs
-
+AngularJs
+---------
 **1. Généralités**
 
 - [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
