@@ -12,7 +12,7 @@ AngularJs
 - [2 years with Angular](http://www.fse.guru/2-years-with-angular)
 - [Introduction à AngularJs](http://makina-corpus.com/blog/metier/2014/introduction-angularjs)
 - [Geekos.fr - Tutoriel](http://geekos.fr/11/2012/framework-javascript-angularjs/)
-- [w3schools - Tutoriael](http://www.w3schools.com/angular/default.asp)
+- [w3schools - Tutoriel](http://www.w3schools.com/angular/default.asp)
 
 **Objets**
 - [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
@@ -26,6 +26,24 @@ Javascript
 - [Scope & this](http://javascriptplayground.com/blog/2012/04/javascript-variable-scope-this/)
 - [Usage avancé des fonctions](http://braincracking.org/2011/11/17/usage-avance-des-fonctions-javascript/)
 - [3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
+
+AngularJS/Leaflet
+-----------------
+- [tombatossals/angular-leaflet-directive](http://tombatossals.github.io/angular-leaflet-directive/#!/)
+- []()
+- []()
+
+AngularJS/OpenLayers
+-----------------
+- [tombatossals/angular-openlayers-directive](https://github.com/tombatossals/angular-openlayers-directive)
+- [CodeLoversAt/angular-openlayers-directive](https://github.com/CodeLoversAt/angular-openlayers-directive)
+- [AzimuthJS](http://mpriour.github.io/azimuthjs/#)
+- [camptocamp/ngeo](https://github.com/camptocamp/ngeo)
+- [JSFiddle - Openlayers with Angularjs](http://jsfiddle.net/tianhai/R4W5R/)
+- [Siderite's Blog - OpenLayers & AngularJs](http://siderite.blogspot.com/2013/10/openlayers-angularjs-add-features.html)
+- [Plunker - AngularJs & Openlayers3](http://plnkr.co/edit/0tXsWS0DXtl37jV8GywI?p=preview)
+- [Matsiya - Leaflet et AngularJS](http://www.matsiya.fr/leaflet-et-angularjs/)
+- [AngularJs Modules - Leaflet & Openlayers](http://ngmodules.org/modules?query=leaflet)
 
 OpenLayers 3
 ------------
