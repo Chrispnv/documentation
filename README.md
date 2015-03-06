@@ -2,8 +2,8 @@
 
 **1. Généralités**
 
-- [Symfony2 - Site](http://symfony.com/)
-- [Symfony2 - Book](http://symfony.com/doc/current/book/index.html)
+- [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
+- [FrAngular - Scope et évènement](http://www.frangular.com/2013/01/angularjs-scopes-et-evenements.html)
 - [Symfony2 - Cookbook](http://symfony.com/doc/current/cookbook/index.html)
 - [Symfony2 - API Reference](http://api.symfony.com/2.6/index.html)
 - [Symfony2 - Installation & configuration](http://symfony.com/fr/doc/current/book/installation.html)
@@ -15,14 +15,14 @@
 
 **2. Fonctionnalités**
 
-**Formulaires**
-- [Symfony2 - Les formulaires & types de champs](http://symfony.com/fr/doc/current/book/forms.html)
-- [La ferme du web - Les formulaires & types de champs](http://www.lafermeduweb.net/tutorial/les-formulaires-dans-symfony2-p100.html)
-- [AFSY - Les formulaires & data binding](http://afsy.fr/avent/2013/22-formulaires-Symfony2-et-data-binding)
-- [Openclassrooms - Formulaires dynamiques](http://openclassrooms.com/forum/sujet/symfony-formulaire-dynamique-cadeau)
+**Javascript**
+- [Javascript, retour aux bases : constructeur, prototype et héritage](http://blog.xebia.fr/2013/06/10/javascript-retour-aux-bases-constructeur-prototype-et-heritage/)
+- [Scope & this](http://javascriptplayground.com/blog/2012/04/javascript-variable-scope-this/)
+- [Usage avancé des fonctions](http://braincracking.org/2011/11/17/usage-avance-des-fonctions-javascript/)
+- [3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
 
-**Entités**
-- [Symfony2 cookbook - Entité](http://symfony.com/fr/doc/current/cookbook/doctrine/reverse_engineering.html)
+**Firebug**
+- [Firebug - Tutoriel](http://openclassrooms.com/courses/firebug-une-merveille-de-plus-pour-firefox)
 - [DevNoteBook - Entity Manager](http://devnotebook.fr/index.php/Informatique/Web/PHP/Symfony/L-EntityManager-de-Doctrine-pour-Symfony)
 
 **CRUD**
