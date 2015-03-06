@@ -1,5 +1,11 @@
 AngularJs
 ---------
+**1. Généralités**
+- [AngularJS — Superheroic JavaScript MVW Framework](https://angularjs.org/)
+- [FrAngular : AngularJS en français](http://www.frangular.com/)
+- [Angular-JS.fr](http://www.angular-js.fr/)
+- [AngularJS - API Reference](https://docs.angularjs.org/api)
+
 - [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
 - [FrAngular - Scope et évènement](http://www.frangular.com/2013/01/angularjs-scopes-et-evenements.html)
 - [Scope](https://docs.angularjs.org/guide/scope)
