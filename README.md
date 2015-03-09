@@ -9,7 +9,7 @@ Dépôt contenant des liens internet autour du développement SIG sur internet.
 </thead>
 <tbody>
 <tr>
-<td>[AngularJS — Superheroic JavaScript MVW Framework](https://angularjs.org/)</td>
+<td><a href="https://angularjs.org/">AngularJS — Superheroic JavaScript MVW Framework</a></td>
 <td align="left">Tout ce qu'il faut pour aborder Angular</td>
 </tr>
 <tr>
