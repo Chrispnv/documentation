@@ -3,8 +3,8 @@ Dépôt contenant des liens internet autour du développement SIG sur internet.
 <table>
 <thead>
 <tr>
-<th>Titre 1 </th>
-<th> Titre 2 </th>
+<th>Lien internet </th>
+<th> Avis </th>
 </tr>
 </thead>
 <tbody>
