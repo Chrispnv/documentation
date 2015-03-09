@@ -27,11 +27,11 @@ Javascript
 - [Usage avancé des fonctions](http://braincracking.org/2011/11/17/usage-avance-des-fonctions-javascript/)
 - [3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
 
-AngularJS/Leaflet
+AngularJs/Leaflet
 -----------------
 - [tombatossals/angular-leaflet-directive](http://tombatossals.github.io/angular-leaflet-directive/#!/)
 
-AngularJS/OpenLayers
+AngularJs/OpenLayers
 -----------------
 - [tombatossals/angular-openlayers-directive](https://github.com/tombatossals/angular-openlayers-directive)
 - [CodeLoversAt/angular-openlayers-directive](https://github.com/CodeLoversAt/angular-openlayers-directive)
