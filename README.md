@@ -9,12 +9,12 @@ Dépôt contenant des liens internet autour du développement SIG sur internet.
 </thead>
 <tbody>
 <tr>
-<td>gauche  </td>
-<td align="left"> gauche  </td>
+<td>[AngularJS — Superheroic JavaScript MVW Framework](https://angularjs.org/)</td>
+<td align="left">Tout ce qu'il faut pour aborder Angular</td>
 </tr>
 <tr>
-<td>ligne 2 </td>
-<td align="left"> ligne2  </td>
+<td>[FrAngular : AngularJS en français](http://www.frangular.com/)</td>
+<td align="left">super site</td>
 </tr>
 </tbody>
 </table>
