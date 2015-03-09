@@ -22,10 +22,10 @@ AngularJs
 
 Javascript
 ----------
+- [3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
 - [Javascript, retour aux bases : constructeur, prototype et héritage](http://blog.xebia.fr/2013/06/10/javascript-retour-aux-bases-constructeur-prototype-et-heritage/)
 - [Scope & this](http://javascriptplayground.com/blog/2012/04/javascript-variable-scope-this/)
 - [Usage avancé des fonctions](http://braincracking.org/2011/11/17/usage-avance-des-fonctions-javascript/)
-- [3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
 
 AngularJs/Leaflet
 -----------------
