@@ -17,8 +17,9 @@ AngularJs
 **Objets**
 - [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
 - [FrAngular - Scope et évènement](http://www.frangular.com/2013/01/angularjs-scopes-et-evenements.html)
-- [Scope](https://docs.angularjs.org/guide/scope)
-- [Provider](https://docs.angularjs.org/guide/providers)
+- [$scope](https://docs.angularjs.org/guide/scope)
+- [$scope, $broadcast, $emit, $on](http://toddmotto.com/all-about-angulars-emit-broadcast-on-publish-subscribing/)
+- [$provider](https://docs.angularjs.org/guide/providers)
 
 Javascript
 ----------
