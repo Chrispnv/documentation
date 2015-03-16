@@ -19,6 +19,7 @@ AngularJs
 - [FrAngular - Scope et évènement](http://www.frangular.com/2013/01/angularjs-scopes-et-evenements.html)
 - [$scope](https://docs.angularjs.org/guide/scope)
 - [$scope, $broadcast, $emit, $on](http://toddmotto.com/all-about-angulars-emit-broadcast-on-publish-subscribing/)
+- [$watch, $digest, $apply](http://tutorials.jenkov.com/angularjs/watch-digest-apply.html)
 - [$provider](https://docs.angularjs.org/guide/providers)
 
 Javascript
