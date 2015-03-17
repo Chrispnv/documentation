@@ -44,22 +44,17 @@ AngularJs/OpenLayers
 - [Siderite's Blog - OpenLayers & AngularJs](http://siderite.blogspot.com/2013/10/openlayers-angularjs-add-features.html)
 - [Plunker - AngularJs & Openlayers3](http://plnkr.co/edit/0tXsWS0DXtl37jV8GywI?p=preview)
 - [Matsiya - Leaflet et AngularJS](http://www.matsiya.fr/leaflet-et-angularjs/)
-
-```
-  $ su -
-  $ adduser usercourant sudo
-  $ exit
-```
 - [AngularJs Modules - Leaflet & Openlayers](http://ngmodules.org/modules?query=leaflet)
 
 OpenLayers 3
 ------------
 - [Exemples](http://openlayers.org/en/master/examples/)
 - [Intégration API Geoportail 1](https://github.com/Viglino/Geoportail-KISS)  
-  ```
-  Cet exemple marche bien.  
-  Faire un git clone du dépôt et changer la clé IGN dans apikeys.js
-  ```
+
+```
+  -> Cet exemple marche bien.
+  -> Faire un git clone du dépôt et mettre la clé IGN ad hoc dans apikey.js
+```
 - [Intégration API Geoportail 2](http://geopole.free.fr/?Geoportail-OL3)
 - [Intégration API Geoportail 3](http://depot.ign.fr/geoportail/api/develop/tech-docs-js/examples/geoportalOL3.html)
 
