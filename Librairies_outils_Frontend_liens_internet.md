@@ -46,9 +46,9 @@ AngularJs/OpenLayers
 - [Matsiya - Leaflet et AngularJS](http://www.matsiya.fr/leaflet-et-angularjs/)
 
 ```
-$ su -
-$ adduser usercourant sudo
-$ exit
+  $ su -
+  $ adduser usercourant sudo
+  $ exit
 ```
 - [AngularJs Modules - Leaflet & Openlayers](http://ngmodules.org/modules?query=leaflet)
 
