@@ -51,7 +51,7 @@ OpenLayers 3
 - [Exemples](http://openlayers.org/en/master/examples/)
 - [Intégration API Geoportail 1](https://github.com/Viglino/Geoportail-KISS)  
   `
-  Cet exemple marche bien.
+  Cet exemple marche bien.  
   -> Faire un git clone du dépôt et changer la clé IGN dans apikeys.js
   `
 - [Intégration API Geoportail 2](http://geopole.free.fr/?Geoportail-OL3)
