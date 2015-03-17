@@ -19,8 +19,11 @@ AngularJs
 - [FrAngular - Scope et évènement](http://www.frangular.com/2013/01/angularjs-scopes-et-evenements.html)
 - [$scope](https://docs.angularjs.org/guide/scope)
 - [$scope, $broadcast, $emit, $on](http://toddmotto.com/all-about-angulars-emit-broadcast-on-publish-subscribing/)
+- [$scope, $broadcast, $on](https://sathyalog.wordpress.com/tag/example-for-scope-using-broadcast-and-on/)
+- [$broadcast](http://jsfiddle.net/sebmade/GkarV/)
 - [$watch, $digest, $apply](http://tutorials.jenkov.com/angularjs/watch-digest-apply.html)
 - [$provider](https://docs.angularjs.org/guide/providers)
+- [Valiadtion formulaire](http://openclassrooms.com/courses/validation-de-formulaire-simplifiee-avec-angularjs)
 
 Javascript
 ----------
