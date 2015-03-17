@@ -54,6 +54,7 @@ OpenLayers 3
 ```
   -> Cet exemple marche bien.
   -> Faire un git clone du dépôt et mettre la clé IGN ad hoc dans apikey.js
+  -> Voir http://viglino.github.io/Geoportail-KISS/ol3/map.html
 ```
 - [Intégration API Geoportail 2](http://geopole.free.fr/?Geoportail-OL3)
 - [Intégration API Geoportail 3](http://depot.ign.fr/geoportail/api/develop/tech-docs-js/examples/geoportalOL3.html)
