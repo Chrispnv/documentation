@@ -49,7 +49,7 @@ AngularJs/OpenLayers
 OpenLayers 3
 ------------
 - [Exemples](http://openlayers.org/en/master/examples/)
-- [Intégration API Geoportail 1](https://github.com/Viglino/Geoportail-KISS)
+- [Intégration API Geoportail 1](https://github.com/Viglino/Geoportail-KISS)  
   `
   Faire un git clone du dépôt et changer la clé IGN dans apikeys.js
   `
