@@ -53,12 +53,11 @@ OpenLayers 3
 ------------
 - [Site OpenLayers](http://openlayers.org/)
 - [OpenLayers 3 API](http://openlayers.org/en/v3.3.0/apidoc/)
-- [Intégration API Geoportail 1](https://github.com/Viglino/Geoportail-KISS) 
 - [OpenLayers 3 Workshop](http://openlayers.org/ol3-workshop/index.html)
 - [OpenLayers 3 Beginners](http://christopherjennison.com/openlayers3-quickstart-tutorial/)
 - [Exemples](http://openlayers.org/en/master/examples/)
 - [The book of OpenLayers 3 - Codes samples](http://acanimal.github.io/thebookofopenlayers3/index.html)
-- [Draw features - CodePen](http://codepen.io/anon/pen/yyGOBZ)
+- [Intégration API Geoportail 1](https://github.com/Viglino/Geoportail-KISS)
 
 ```
   -> Cet exemple marche bien.
@@ -67,6 +66,7 @@ OpenLayers 3
 ```
 - [Intégration API Geoportail 2](http://geopole.free.fr/?Geoportail-OL3)
 - [Intégration API Geoportail 3](http://depot.ign.fr/geoportail/api/develop/tech-docs-js/examples/geoportalOL3.html)
+- [Draw features - CodePen](http://codepen.io/anon/pen/yyGOBZ)
 
 FireBug
 -------
