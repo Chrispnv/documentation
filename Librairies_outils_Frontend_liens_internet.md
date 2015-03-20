@@ -68,7 +68,8 @@ OpenLayers 3
 - [Intégration API Geoportail 2](http://geopole.free.fr/?Geoportail-OL3)
 - [Intégration API Geoportail 3](http://depot.ign.fr/geoportail/api/develop/tech-docs-js/examples/geoportalOL3.html)
 - [Draw features - CodePen](http://codepen.io/anon/pen/yyGOBZ)
-- [Evènement depuis carte](http://codepen.io/barbalex/pen/fBpyb) ``` Affichage coord point après clic sur carte au format geoJson ```
+- [Evènement depuis clic sur carte 1](http://codepen.io/barbalex/pen/fBpyb) ``` Affichage coord point après clic sur carte au format geoJson ```
+- [Evènement depuis clic sur carte 2](http://jsfiddle.net/UhRmk/)
 
 FireBug
 -------
