@@ -25,6 +25,10 @@ AngularJs
 - [$provider](https://docs.angularjs.org/guide/providers)
 - [Valiadtion formulaire](http://openclassrooms.com/courses/validation-de-formulaire-simplifiee-avec-angularjs)
 
+**Exemples**
+- [Modal click event 1](http://jsbin.com/aDuJIku/2/edit?html,css,js,output)
+- [Modal click event 2](http://embed.plnkr.co/I3Z1SjKeHYPC0NsOGJQg/preview)
+
 Javascript
 ----------
 - [3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
