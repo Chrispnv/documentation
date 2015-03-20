@@ -7,7 +7,7 @@ AngularJs
 - [AngularJS - API Reference](https://docs.angularjs.org/api)
 
 **Tutoriels**
-- [Tutoriel AngularJS](http://www.tutoriel-angularjs.fr/) ``` test ```
+- [Tutoriel AngularJS](http://www.tutoriel-angularjs.fr/) 
 - [Apprendre Angular en un jour, le guide ultime](http://www.tinci.fr/blog/apprendre-angular-en-un-jour-le-guide-ultime/)
 - [2 years with Angular](http://www.fse.guru/2-years-with-angular)
 - [Introduction à AngularJs](http://makina-corpus.com/blog/metier/2014/introduction-angularjs)
@@ -39,7 +39,8 @@ AngularJs/Leaflet
 
 AngularJs/OpenLayers
 -----------------
-- [tombatossals/angular-openlayers-directive](https://github.com/tombatossals/angular-openlayers-directive)
+- [tombatossals/angular-openlayers-directive](https://github.com/tombatossals/angular-openlayers-directive) ``` Directives AngularJs sur OpenLayers 3 ```
+- [tombatossals/angular-openlayers-directive - Exemples](http://tombatossals.github.io/angular-openlayers-directive/#/) 
 - [CodeLoversAt/angular-openlayers-directive](https://github.com/CodeLoversAt/angular-openlayers-directive)
 - [AzimuthJS](http://mpriour.github.io/azimuthjs/#)
 - [camptocamp/ngeo](https://github.com/camptocamp/ngeo)
