@@ -68,8 +68,10 @@ OpenLayers 3
 - [Intégration API Geoportail 2](http://geopole.free.fr/?Geoportail-OL3)
 - [Intégration API Geoportail 3](http://depot.ign.fr/geoportail/api/develop/tech-docs-js/examples/geoportalOL3.html)
 - [Draw features - CodePen](http://codepen.io/anon/pen/yyGOBZ)
-- [Evènement depuis clic sur carte 1](http://codepen.io/barbalex/pen/fBpyb) ``` Affichage coord point après clic sur carte au format geoJson ```
-- [Evènement depuis clic sur carte 2](http://jsfiddle.net/UhRmk/)
+- [Click event example 1](http://codepen.io/barbalex/pen/fBpyb) ``` Affichage coord point après clic sur carte au format geoJson ```
+- [Click event example 2](http://jsfiddle.net/UhRmk/)
+- [Click event example 3](http://dev.openlayers.org/examples/click.html) ``` Exemple avec OpenLayers 2 ```
+- [Features on click](http://mvn.idelab.uva.es/idelabmapstraction/interactive_examples/openlayers.features.html)
 
 FireBug
 -------
