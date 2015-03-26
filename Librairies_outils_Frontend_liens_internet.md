@@ -13,6 +13,7 @@ AngularJs
 - [Introduction à AngularJs](http://makina-corpus.com/blog/metier/2014/introduction-angularjs)
 - [Geekos.fr - Tutoriel](http://geekos.fr/11/2012/framework-javascript-angularjs/)
 - [w3schools - Tutoriel](http://www.w3schools.com/angular/default.asp)
+- [OpenClassRooms - Tutoriel](http://openclassrooms.com/courses/developpez-vos-applications-web-avec-angularjs)
 
 **Objets**
 - [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
@@ -28,6 +29,10 @@ AngularJs
 **Exemples**
 - [Modal click event 1](http://jsbin.com/aDuJIku/2/edit?html,css,js,output)
 - [Modal click event 2](http://embed.plnkr.co/I3Z1SjKeHYPC0NsOGJQg/preview)
+
+BootStrap
+---------
+- [OpenClassRooms - Tutoriel](http://openclassrooms.com/courses/prenez-en-main-bootstrap)
 
 Javascript
 ----------
