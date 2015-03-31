@@ -44,6 +44,7 @@ Symfony2
 - [Symfony2 - Gestion session](http://symfony.com/fr/doc/current/components/http_foundation/sessions.html)
 - [Symfony2 - Gestion session](http://symfony.com/fr/doc/current/components/http_foundation/sessions.html)
 - [Symfony2 - Twig Reference](http://symfony.com/fr/doc/current/reference/forms/twig_reference.html)
+- [JSON - Module JSM Serializer](https://github.com/schmittjoh/JMSSerializerBundle)
 
 ORM Doctrine 2
 --------------
