@@ -1,5 +1,5 @@
-### Liens sur Symfony2
-
+Symfony2
+--------
 **1. Généralités**
 
 - [Symfony2 - Site](http://symfony.com/)
@@ -45,12 +45,14 @@
 - [Symfony2 - Gestion session](http://symfony.com/fr/doc/current/components/http_foundation/sessions.html)
 - [Symfony2 - Twig Reference](http://symfony.com/fr/doc/current/reference/forms/twig_reference.html)
 
-###Liens sur ORM Doctrine 2
+ORM Doctrine 2
+--------------
 - [Doctrine 2 - API reference](https://github.com/doctrine/doctrine2/tree/master/lib/Doctrine/ORM)
 - [Doctrine 2 - Documentation](http://doctrine-orm.readthedocs.org/en/latest/index.html)
 - [Doctrine 2 - Mapping](http://doctrine-orm.readthedocs.org/en/latest/reference/association-mapping.html)
 
-###Liens sur Intégration AngularJs/Symfony2
+Intégration AngularJs/Symfony2
+------------------------------
 - [AFSY - AngularJs/Symfony2](http://afsy.fr/avent/2013/16-symfony-et-angularjs-tips)
 - [AngularJs/Symfony2](https://medium.com/@llaine/operate-with-harmony-symfony2-angularjs-283b641d3b05)
 - [GitHub - sunra/angularjs-symfony2-bundle](https://github.com/sunra/angularjs-symfony2-bundle)
