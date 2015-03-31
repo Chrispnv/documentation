@@ -24,7 +24,8 @@ AngularJs
 - [$broadcast](http://jsfiddle.net/sebmade/GkarV/)
 - [$watch, $digest, $apply](http://tutorials.jenkov.com/angularjs/watch-digest-apply.html)
 - [$provider](https://docs.angularjs.org/guide/providers)
-- [Valiadtion formulaire](http://openclassrooms.com/courses/validation-de-formulaire-simplifiee-avec-angularjs)
+- [Validation formulaire](http://openclassrooms.com/courses/validation-de-formulaire-simplifiee-avec-angularjs)
+- [JSON - Symfony 2](https://github.com/qandidate-labs/symfony-json-request-transformer-example)
 
 **Exemples**
 - [Modal click event 1](http://jsbin.com/aDuJIku/2/edit?html,css,js,output)
