@@ -33,7 +33,9 @@ AngularJs
 
 BootStrap
 ---------
+- [GetBootstrap](http://getbootstrap.com/components/#btn-groups)
 - [OpenClassRooms - Tutoriel](http://openclassrooms.com/courses/prenez-en-main-bootstrap)
+- [w3schools - Tutoriel](http://www.w3schools.com/bootstrap/default.asp)
 
 Javascript
 ----------
