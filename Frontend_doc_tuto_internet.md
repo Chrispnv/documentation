@@ -16,6 +16,7 @@ AngularJs
 - [OpenClassRooms - Tutoriel](http://openclassrooms.com/courses/developpez-vos-applications-web-avec-angularjs)
 - [Angular-strap](https://angular-ui.github.io/bootstrap/http://mgcrea.github.io/angular-strap/#)
 - [Angular-motion](https://github.com/mgcrea/angular-motion)
+- [Angular ng-table](http://bazalt-cms.com/ng-table/)
 
 **Objets**
 - [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
