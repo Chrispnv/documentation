@@ -18,6 +18,7 @@ AngularJs
 - [Angular-motion](https://github.com/mgcrea/angular-motion)
 - [Angular ng-table](http://bazalt-cms.com/ng-table/)
 - [Angular ng-grid](http://angular-ui.github.io/ng-grid/#/examples)
+- [Dropdown List](http://john-oc.github.io/)
 
 **Objets**
 - [FrAngular - API Promise](http://www.frangular.com/2012/12/api-promise-angularjs.html#more)
