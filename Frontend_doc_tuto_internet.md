@@ -44,9 +44,9 @@ BootStrap
 
 Javascript
 ----------
-- [3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/)
-- [Bonnes pratiques (Airbnb)](https://github.com/airbnb/javascript/blob/master/README.md)
-- [Javascript, retour aux bases : constructeur, prototype et héritage](http://blog.xebia.fr/2013/06/10/javascript-retour-aux-bases-constructeur-prototype-et-heritage/)
+- [3 fondamentaux](http://braincracking.org/2011/11/16/javascript-3-fondamentaux/) ``` !! A lire sans modération ```
+- [Bonnes pratiques (Airbnb)](https://github.com/airbnb/javascript/blob/master/README.md) ``` !! A lire sans modération ```
+- [Javascript, retour aux bases : constructeur, prototype et héritage](http://blog.xebia.fr/2013/06/10/javascript-retour-aux-bases-constructeur-prototype-et-heritage/) ``` !! A lire sans modération ```
 - [Architecture REST en 5 règles](http://blog.nicolashachet.com/niveaux/confirme/larchitecture-rest-expliquee-en-5-regles/)
 - [Scope & this](http://javascriptplayground.com/blog/2012/04/javascript-variable-scope-this/)
 - [Usage avancé des fonctions](http://braincracking.org/2011/11/17/usage-avance-des-fonctions-javascript/)
