@@ -12,4 +12,5 @@ Récupérer un licence VMWare pour VSphere : https://www.vmware.com/tryvmware/p/
 
 Installer la clé de licence dans VSphere
 
-``Configuration dans l'écran central > Fonctions autorisées > Modifier ... (haut gauche) > Affecter une nouvelle clé de licence``
+``Configuration dans l'écran central > Fonctions autorisées > Modifier ... (haut gauche) 
+  > Affecter une nouvelle clé de licence``
