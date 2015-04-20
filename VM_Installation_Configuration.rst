@@ -5,7 +5,8 @@ Télécharger VSphere depuis l'adresse du serveur dédié (https://x.x.x.x).
 
 Installer VSphere sur un poste local.
 
-Récupérer un licence VMWare pour VSphere 
+Récupérer un licence VMWare pour VSphere
+
 * Créer un compte sur VMWare  
 * Récupérer la clé de licence onglet Licence & Download
 
