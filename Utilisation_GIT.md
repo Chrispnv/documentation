@@ -7,3 +7,5 @@
 - Préparer un/des fichiers(s) pour envoi sur Github ``` $ git add nom_fichier ``` ou * pour tous les fichiers
 - Commiter les fichiers ``` $ git commit -m 'description commit' ```
 - Envoyer commit sur Github avec le lien créé sur la branche choisie ``` $ git push nom_lien nom_branche ``` Généralement origin master
+
+- Supprmimer un fichier sur dépôt local et sur Github ``` $ git rm nom_fichier ``` puis faire un commit et un push
