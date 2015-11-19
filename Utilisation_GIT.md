@@ -9,4 +9,4 @@
 - Envoyer commit sur Github avec le lien créé sur la branche choisie ``` $ git push nom_lien nom_branche ``` Généralement origin master
 
 - Supprmimer un fichier sur dépôt local et sur Github ``` $ git rm nom_fichier ``` puis faire un commit et un push
-- Pour effacer les fichiers en attente de commit dans git add ``` $ git reset
+- Pour effacer les fichiers en attente de commit dans git add ``` $ git reset ```
